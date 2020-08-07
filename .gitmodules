@@ -1,0 +1,3 @@
+[submodule "ParentProjectUnity/Submodules/GameEventSystem"]
+	path = ParentProjectUnity/Submodules/GameEventSystem
+	url = https://github.com/Poltron/GameEventSystem
